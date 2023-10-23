@@ -1,0 +1,3 @@
+{
+	"python.analysis.extraPaths": ["C:/Program Files/Webots/lib/controller/python39", "./TTS"]
+}

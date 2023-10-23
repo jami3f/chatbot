@@ -1,0 +1,5 @@
+__pycache__
+chatbot-output
+tts-output
+a2f
+*.wav

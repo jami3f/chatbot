@@ -1,0 +1,36 @@
+[
+	{
+		"tts_models/en/ljspeech/tacotron2-DDC": 1.905709981918335,
+		"tts_models/en/ljspeech/glow-tts": 0.7792601585388184,
+		"tts_models/en/ljspeech/speedy-speech": 0.6324000358581543,
+		"tts_models/en/ljspeech/tacotron2-DCA": 1.1497209072113037,
+		"tts_models/en/ljspeech/vits": 1.390580415725708,
+		"tts_models/en/ljspeech/vits--neon": 1.4336988925933838,
+		"tts_models/en/ljspeech/fast_pitch": 0.9590630531311035,
+		"tts_models/en/ljspeech/overflow": 1.6260030269622803,
+		"tts_models/en/ljspeech/neural_hmm": 1.1980185508728027,
+		"tts_models/en/sam/tacotron-DDC": 34.04358673095703,
+		"tts_models/en/blizzard2013/capacitron-t2-c50": 19.49499797821045,
+		"tts_models/en/blizzard2013/capacitron-t2-c150_v2": 11.732903003692627,
+		"tts_models/en/multi-dataset/tortoise-v2": 160.4444601535797,
+		"tts_models/en/jenny/jenny": 44.07576012611389
+	},
+	{
+		"tts_models/en/ek1/tacotron2": 77.81905341148376,
+		"tts_models/en/ljspeech/tacotron2-DDC": 2.1408493518829346,
+		"tts_models/en/ljspeech/tacotron2-DDC_ph": 1.793999433517456,
+		"tts_models/en/ljspeech/glow-tts": 0.8994059562683105,
+		"tts_models/en/ljspeech/speedy-speech": 0.6550910472869873,
+		"tts_models/en/ljspeech/tacotron2-DCA": 1.3800320625305176,
+		"tts_models/en/ljspeech/vits": 1.5026822090148926,
+		"tts_models/en/ljspeech/vits--neon": 1.485689401626587,
+		"tts_models/en/ljspeech/fast_pitch": 1.0687720775604248,
+		"tts_models/en/ljspeech/overflow": 1.7613916397094727,
+		"tts_models/en/ljspeech/neural_hmm": 1.2531015872955322,
+		"tts_models/en/sam/tacotron-DDC": 3.044318199157715,
+		"tts_models/en/blizzard2013/capacitron-t2-c50": 1.5895910263061523,
+		"tts_models/en/blizzard2013/capacitron-t2-c150_v2": 1.2433128356933594,
+		"tts_models/en/multi-dataset/tortoise-v2": 73.0415289402008,
+		"tts_models/en/jenny/jenny": 5.941702842712402
+	}
+]
